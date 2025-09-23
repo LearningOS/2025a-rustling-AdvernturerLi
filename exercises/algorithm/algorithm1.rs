@@ -77,6 +77,8 @@ impl<T> LinkedList<T> {
             start: None,
             end: None,
         }
+
+        
 	}
 }
 
